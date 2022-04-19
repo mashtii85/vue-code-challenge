@@ -5,9 +5,9 @@
 </template>
 
 <script>
-    export default {
-        name: "Header-Component",
-    };
+export default {
+  name: "Header-Component",
+};
 </script>
 
 <style scoped>
